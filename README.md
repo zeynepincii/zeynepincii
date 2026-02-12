@@ -26,4 +26,4 @@ I'm a **3rd Year Computer Engineering Student at Yildiz Technical University**. 
 * **Continuous Learning:** Actively exploring **cryptography, optimization techniques, and machine learning**.
 
 ### 📫 How to reach me
-* **LinkedIn:** [linkedin.com/in/zeynep-inci](https://linkedin.com/in/zeynep-inci)
+* **LinkedIn:** [linkedin.com/in/zeynep-inci1](https://linkedin.com/in/zeynep-inci1)
