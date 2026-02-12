@@ -14,19 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi 👋 I'm Zeynep!
+# Hi 👋 I'm Zeynep!
 
-I am a **3rd Year Computer Engineering Student at Yildiz Technical University**. I am a versatile engineering student focused on building secure, efficient, and scalable software solutions.
+I'm a **3rd Year Computer Engineering Student at Yildiz Technical University**. I am passionate about exploring different layers of software engineering and building robust solutions.
 
-### 🔧 Technical Skills & Interests
-* **Programming & Tools:** Proficient in **Python, C, and SQL**; experienced with **Tkinter** for GUI development.
-* [cite_start]**Blockchain & Security:** Developed a decentralized medical report authentication system using **SHA-256** hashing[cite: 3, 9, 33].
-* **Embedded Systems:** Led an embedded systems team for the **TEKNOFEST** Underwater Rocket competition.
-* **Academic Foundations:** Strong interest in **Cryptography, Optimization Techniques**, and **Database Management**.
+### 🛠 Technical Focus & Experience
 
-### 📂 Current Projects
-* [cite_start]**MedChain Verifier:** A blockchain-based integrity system for healthcare documents[cite: 7, 17].
-* **RecycleShare:** A neighborhood-scale recycling platform database design.
+* **Software Development:** Building efficient and scalable applications using **Python, C, and Java**.
+* **Data & Security:** Strong interest in **database management (SQL)** and developing **blockchain-based authentication systems**.
+* **Project Leadership:** Experienced in leading technical teams, specifically in the field of **embedded systems** for competitions.
+* **Continuous Learning:** Actively exploring **cryptography, optimization techniques, and machine learning**.
 
-### 📫 Reach Me
-* **LinkedIn:** [linkedin.com/in/zeynep-inci1](https://linkedin.com/in/zeynep-inci1)
+### 📫 How to reach me
+* **LinkedIn:** [linkedin.com/in/zeynep-inci](https://linkedin.com/in/zeynep-inci)
