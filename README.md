@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **zeynepincii/zeynepincii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋 I'm Zeynep!
+## Hi 👋 I'm Zeynep!
 
 I am a **3rd Year Computer Engineering Student at Yildiz Technical University**. I am a versatile engineering student focused on building secure, efficient, and scalable software solutions.
 
